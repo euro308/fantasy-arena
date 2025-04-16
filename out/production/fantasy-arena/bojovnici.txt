@@ -1,8 +1,0 @@
-Aragorn,100,25,10
-Legolas,90,20,15
-Gimli,110,18,18
-Boromir,95,22,12
-Saruman,80,30,5
-Ork,70,15,8
-Troll,120,20,10
-Elfka,85,19,14
